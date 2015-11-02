@@ -24,6 +24,7 @@ Any source for ideas and code *must* be published here. Pull requests are
   encouraged.
    * [understanding-pac-man-ghost-behavior](http://gameinternals.com/post/2072558330/understanding-pac-man-ghost-behavior)
    * [Ms PacMan with MonteCarlo simulation](https://github.com/stewartml/montecarlo-pacman)
+   * [Automatic Controller of Ms. Pac-Man](http://www.ice.ci.ritsumei.ac.jp/~ruck/PAP/jsst09-matsumoto.pdf)
 
 
 
